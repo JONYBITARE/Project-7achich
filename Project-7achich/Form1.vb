@@ -6,5 +6,6 @@
         MsgBox("msg4")
         MsgBox("msg5")
         MsgBox("msg6")
+        MsgBox("msg7")
     End Sub
 End Class
