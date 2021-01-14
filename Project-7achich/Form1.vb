@@ -5,5 +5,6 @@
         MsgBox("msg312")
         MsgBox("msg33123")
         MsgBox("msg3144")
+        MsgBox("msg31")
     End Sub
 End Class
