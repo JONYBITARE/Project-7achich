@@ -7,6 +7,7 @@ Public Class Form1
 
     Private Sub SvgImageBox1_Click(sender As Object, e As EventArgs) Handles SvgImageBox1.Click
         XtraMessageBox.Show("hello")
+        XtraMessageBox.Show("h")
     End Sub
 
     Private Sub SimpleButton1_Click(sender As Object, e As EventArgs) Handles SimpleButton1.Click
