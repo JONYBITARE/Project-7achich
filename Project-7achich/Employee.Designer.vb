@@ -1,5 +1,5 @@
 ﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _
-Partial Class Form2
+Partial Class Employee
     Inherits DevExpress.XtraEditors.XtraForm
 
     'Form overrides dispose to clean up the component list.
@@ -24,13 +24,13 @@ Partial Class Form2
     Private Sub InitializeComponent()
         Me.SuspendLayout()
         '
-        'Form2
+        'Employee
         '
         Me.AutoScaleDimensions = New System.Drawing.SizeF(7.0!, 16.0!)
         Me.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font
         Me.ClientSize = New System.Drawing.Size(700, 450)
-        Me.Name = "Form2"
-        Me.Text = "Form2"
+        Me.Name = "Employee"
+        Me.Text = "Employee"
         Me.ResumeLayout(False)
 
     End Sub
