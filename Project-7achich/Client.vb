@@ -5,7 +5,6 @@ Imports DevExpress.XtraGrid.Columns
 Imports System.Data.SqlClient
 Imports DevExpress.XtraBars.Docking2010
 Partial Class Client
-    Inherits
     Dim ds As New DataSet
     Dim da As New SqlDataAdapter
     Dim con As New SqlConnection("")
